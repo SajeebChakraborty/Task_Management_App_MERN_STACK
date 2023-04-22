@@ -1,0 +1,14 @@
+{
+  "name": "task_management_app",
+  "version": "1.0.0",
+  "description": "mern product",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sajeeb Chakraborty",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
